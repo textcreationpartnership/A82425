@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for taking the accompts and redressing of grievances concerning the tythes and church-livings in Wales; and for advancement of religion and learning there. Friday, March 16. 1659. Ordered by the Parliament, that this act be forthwith printed and published. Thomas St. Nicholas, clerk of the Parliament.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82425</idno>
+            <idno type="STC">Wing E1085</idno>
+            <idno type="STC">Thomason E1074_41</idno>
+            <idno type="STC">ESTC R208419</idno>
+            <idno type="EEBO-CITATION">99867374</idno>
+            <idno type="PROQUEST">99867374</idno>
+            <idno type="VID">119683</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119683)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1074[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for taking the accompts and redressing of grievances concerning the tythes and church-livings in Wales; and for advancement of religion and learning there. Friday, March 16. 1659. Ordered by the Parliament, that this act be forthwith printed and published. Thomas St. Nicholas, clerk of the Parliament.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Streater, and John Macock, printers to the Parliament,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659. [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title ornament; text in blackletter.</note>
+                  <note>Annotation on Thomason copy: "March 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Wales --  Church history --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Wales --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119683:1" rendition="simple:additions"/>
+            <p>AN ACT For taking the Accompts and Redreſsing of Grievances concerning the Tythes and Church-Li<g ref="char:EOLhyphen"/>vings in <hi>Wales;</hi> And for Advancement of Religion and Learning there.</p>
+            <p>Friday, <hi>March</hi> 16. 1659.</p>
+            <p>
+               <hi>ORdered by the Parliament,</hi> That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+            <p>THOMAS S<hi rend="sup">t</hi>. NICHOLAS, <hi>Clerk of the Parliament.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parliament. 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119683:2"/>
+            <pb n="3" facs="tcp:119683:2"/>
+            <head>AN ACT For taking the Accompts, and Redreſsing of Grievances concerning the <hi>Tythes</hi> and <hi>Church-Livings</hi> in <hi>Wales;</hi> and for Ad<g ref="char:EOLhyphen"/>vancement of Religion and Learn<g ref="char:EOLhyphen"/>ing there.</head>
+            <p>BE it Enacted and Ordained by this pre<g ref="char:EOLhyphen"/>ſent Parliament, That the Council of State be, and are hereby Impowered by Letters, Commiſſions, or Inſtructi<g ref="char:EOLhyphen"/>ons from them Directed, under the Seal of the Council, to Authorize and Appoint ſuch perſon and perſons as they ſhall think fit within the reſpective Counties of <hi>Wales</hi> and County of <hi>Monmouth,</hi> thereby Improwering them, or any threé or more of them, to Take and Receive the Accompts of the Commiſſioners named in an Act of the two and twentieth day of <hi>February,</hi> One thouſand ſix hundred forty nine, Entituled, <hi>An Act for the better Propagation and Preaching of the Goſpel in <hi>Wales,</hi>
+               </hi> and to Take the Accompts of all other perſon &amp; perſons that have been In<g ref="char:EOLhyphen"/>truſted and Imployed, or have any wayes In<g ref="char:EOLhyphen"/>termedled with the Letting, Setting, Receiv<g ref="char:EOLhyphen"/>ing, Collecting, Sequeſtring or Diſpoſing of all or any Church-livings with Care of Souls, Donatives, Rectories, Vicaridges, Impropri<g ref="char:EOLhyphen"/>ations, Rents reſerved <hi>ſine Curis,</hi> Colledge Pen<g ref="char:EOLhyphen"/>ſions and Portions of Tythes, and other Eccle<g ref="char:EOLhyphen"/>ſiaſtical
+<pb n="4" facs="tcp:119683:3"/>Livings, Benefices, Procurations, Pro<g ref="char:EOLhyphen"/>moations, and publique Revenues whatſoever, Sequeſtred or Sequeſtrable, or in the Diſpoſal of the Parliament, or which did or do any ways belong or appertain to the Common-Wealth with<g ref="char:EOLhyphen"/>in the ſaid reſpective Counties of <hi>Wales</hi> and County of <hi>Monmouth</hi> ever ſince the two and twentieth day of <hi>February,</hi> One thouſand ſix hundred forty nine: And to Examine and Cer<g ref="char:EOLhyphen"/>tifie all Deceipts, Frauds, Undervaluations, Concealments, Miſ-imployments and Breaches of Truſt of any perſon or perſons that have had the Letting, Setting, Collecting, Sequeſtring, Receiving or Diſpoſing of the ſaid Church Li<g ref="char:EOLhyphen"/>vings, Rectories, Impropriations, and other the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>miſes, or have any ways Intermedled there<g ref="char:EOLhyphen"/>with.</p>
+            <p>And for the better diſcovery of the truth there<g ref="char:EOLhyphen"/>of, the ſaid Commiſſioners, or any threé of them are hereby Impowred to ſend for Perſons, Pa<g ref="char:EOLhyphen"/>pers, Witneſſes, Books and Accompts, and to Examine the Accomptants, and all ſuch Witnenes as ſhall be produced before them on Oath which the ſaid Commiſſioners or any three of them are hereby Impowred to Adminiſter; and to Vſe all other Lawful Ways and Means, and Execute all ſuch further Powers as were heretofore given to any Committeé or Commiſſio<g ref="char:EOLhyphen"/>ners, for taking the Accompts of the Kingdom, by any former Acts or Ordinances of Parlia<g ref="char:EOLhyphen"/>ment, for the better performance and diſcharge of the Service aforeſaid. And the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners or any threé of them are hereby further Au<g ref="char:EOLhyphen"/>thorized and Required to Examine and Certifie the true and real Valuations of the ſaid Recto<g ref="char:EOLhyphen"/>ries, Vicarages, Impropriations, Tythes,
+<pb n="5" facs="tcp:119683:3"/>Church-Livings, and other the Premiſſes within the ſaid reſpective Counties, as the ſame were Farmed, Eſtimated, Received, or Accompted, for in the year One Thouſand Six Hundred Forty Nine, and ſo <hi>Communibus annis</hi> to this time. And how many Miniſters and Schoole-Maſters have been at any time ſince the year aforeſaid Ejected and Amoved: And how many of them are fit to be reſtored, what Churches, Vicaradges, Rectories, and Pla<g ref="char:EOLhyphen"/>ces have ſince become voyd, and for how long time they ſo remamed by the Death, Ejection, or Removall of the former Incumbents, Mi<g ref="char:EOLhyphen"/>niſters, and Schoole-Maſters; To whom the preſentation and right of patronage to ſuch va<g ref="char:EOLhyphen"/>cant Places did and doth belong. How the reſpective Churches and Pariſhes have been ſupplyed ſince the ſaid two and twentieth day of <hi>February,</hi> One Thouſand Six Hundred Forty Nine; and by whom, and how, the perſons are qualified that ſupplyed the ſame. And the ſaid Commiſſioners, or any Three or more of them, are hereby further Impowred and Re<g ref="char:EOLhyphen"/>quired to Examine and Certifie, by whom the ſaid Church-Livings, Rectories and Vicar<g ref="char:EOLhyphen"/>adges, Impropriations, and other the Premi<g ref="char:EOLhyphen"/>ſes ſince the time aforeſaid, have been Seque<g ref="char:EOLhyphen"/>ſtred, Farmed, Received, Collected, or Diſ<g ref="char:EOLhyphen"/>poſed of. And to what real Value the ſame did and doth amount unto, and how accompted; And how much thereof doth remain in the hands of any Perſon or Perſons within y<hi rend="sup">e</hi> ſaid reſpective Counties, due and unaccompted for to the Commonwealth; And to Certifie the ſame with all other their proceedings by Ver<g ref="char:EOLhyphen"/>tue of this Act. And the Commiſſions and In<g ref="char:EOLhyphen"/>ſtructions
+<pb n="6" facs="tcp:119683:4"/>aforeſaid to the Council of State; and one other part thereof to the Court of Ex<g ref="char:EOLhyphen"/>chequer at <hi>Weſtminſter,</hi> with a Schedule of the Debtors and Accomptants, Sum and Sums of Money due and payable from them and every of them to the Commonwealth, whereby the ſame may be proceeded upon accor<g ref="char:EOLhyphen"/>ding to the Courſe of Exchequer, againſt like Accomptants, to force the Payment thereof without any further Commiſſion, Inquiry, or <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ſition thereupon to be had, which they are hereby enabled to do; Any former Act or Or<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nance concerning the ſame to the contrary thereof notwithſtanding.</p>
+            <p>And the Council of State from time to time are hereby enabled to give further In<g ref="char:EOLhyphen"/>ſtructions and Directions for the carrying on of the ſervice aforeſaid, and to give ſuch al<g ref="char:EOLhyphen"/>lowances to the perſons by them to be imploy<g ref="char:EOLhyphen"/>ed therein as they ſhall think fit.</p>
+            <p>And the Council of State are hereby fur<g ref="char:EOLhyphen"/>ther impowred and required, That in all Ca<g ref="char:EOLhyphen"/>ſes where the Preſentation doth or ſhall belong to the State either of meer right or by lapſe, That they ſhall take ſpeedy care for the ſupply of them.</p>
+            <p>And it is hereby Enacted and Declared; That all Grants or Leaſes of any Glebes or Titles belonging to any Parſonage or Vica<g ref="char:EOLhyphen"/>rage with Cure of Souls within the Counties aforeſaid, made by the Patron and Incum<g ref="char:EOLhyphen"/>bent ſince the Two and twentieth day of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> One thouſand ſix hundred fourty nine, to any perſon or perſons whatſoever, ſhall be abſolutely void to all intents and purpoſes againſt the Succeſſor of ſuch Incumbent, ſuch
+<pb n="7" facs="tcp:119683:4"/>Succeſſor coming in upon Death, Ceſſion, Se<g ref="char:EOLhyphen"/>queſtration, or otherwiſe.</p>
+            <p>And Be it further Enacted, That where, upon the Certificates of the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners, there ſhall appear any profits of Livings within the Counties aforeſaid, to be remain<g ref="char:EOLhyphen"/>ing in the hands of any perſon or perſons, That the Council is further impowred to al<g ref="char:EOLhyphen"/>low and diſpoſe of the ſame to the preſent or ſuc<g ref="char:EOLhyphen"/>ceeding Incumbent, allowing for the ſerving of the Cure during the vacancy, what they ſhall think fit.</p>
+         </div>
+         <div type="imprimatur">
+            <head>Friday, <hi>March</hi> 16. 1659.</head>
+            <p>
+               <hi>ORdered by the Parliament,</hi> That this Act be forth with Printed and Publiſhed.</p>
+            <closer>
+               <signed>THOMAS St. NICHOLAS, <hi>Clerk of the Parliament.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parliament. 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
